@@ -1,0 +1,172 @@
+.review-panel {
+  background: #EEF0FC;
+  border-radius: 16px;
+  padding: 24px;
+  box-sizing: border-box;
+}
+
+.review-panel h2 {
+  font-size: 22px;
+  font-weight: 700;
+  margin: 0 0 6px;
+  color: #0B0D10;
+}
+
+.review-panel__subtitle {
+  font-size: 14px;
+  color: #666;
+  margin: 0 0 16px;
+  line-height: 1.4;
+}
+
+.review-group {
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  padding: 14px 0;
+}
+
+.review-group__label {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: #888;
+  margin: 0 0 8px;
+  font-weight: 600;
+}
+
+.review-panel__perks {
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  padding: 14px 0;
+}
+
+.review-perk {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  color: #0B0D10;
+}
+.review-perk__label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.review-panel__guarantee {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 0;
+}
+
+.guarantee-badge {
+  flex-shrink: 0;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background: #6C4CF6;
+  color: #fff;
+  font-size: 10px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 6px;
+  line-height: 1.2;
+}
+
+.review-panel__guarantee p {
+  font-size: 13px;
+  color: #666;
+  margin: 0;
+}
+
+.review-panel__totals {
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  padding-top: 16px;
+}
+.totals-row-wrapper {
+  display: flex;
+  flex-direction: row;         
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.financing-pill {
+  background: #6C4CF6;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 4px 12px;
+  border-radius: 20px;
+  margin-bottom: 0;
+  width: fit-content;
+}
+.total-row {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 5px;
+}
+.price-shipping {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.total-row .price-old {
+  color: #999;
+  text-decoration: line-through;
+  font-size: 15px;
+}
+
+.total-row .price-new {
+  color: #0B0D10;
+  font-weight: 700;
+  font-size: 26px;
+}
+
+.savings-text {
+  color: #0AA288;
+  font-size: 13px;
+  font-weight: 600;
+  margin: 8px 0 0;
+}
+
+.checkout-btn {
+  display: block;
+  width: 100%;
+  background: #6C4CF6;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 14px;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+  margin-top: 16px;
+}
+
+.checkout-btn:hover {
+  background: #5b3df5;
+}
+
+.save-link {
+  display: block;
+  text-align: center;
+  color: #666;
+  font-size: 13px;
+  text-decoration: underline;
+  margin-top: 12px;
+}
+.guarantee-title {
+  font-size: 14px;
+  font-weight: 700;
+  color: #0B0D10;
+  margin: 0 0 4px;
+}
+
+.guarantee-desc {
+  font-size: 13px;
+  color: #666;
+  margin: 0;
+  line-height: 1.4;
+}

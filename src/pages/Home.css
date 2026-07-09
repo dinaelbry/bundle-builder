@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Inter, sans-serif;
+  background: #ffffff;
+}
+
+.home {
+  width: 100%;
+  min-height: 100vh;
+
+  display: flex;
+  justify-content: center;
+
+  padding: 60px;
+}
+
+.container {
+  width: 100%;
+  max-width: 1400px;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 32px;
+  align-items: start;
+}
+@media (max-width: 992px) {
+  .container { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 640px) {
+  .home {
+    padding: 8px;
+  }
+}

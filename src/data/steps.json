@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "step": "STEP 1 OF 4",
+    "title": "Choose your cameras",
+    "icon": "camera",
+    "category": "camera",
+    "selected": 2,
+    "isOpen": true
+  },
+  {
+    "id": 2,
+    "step": "STEP 2 OF 4",
+    "title": "Choose your plan",
+    "icon": "shield",
+    "category": "plan",
+    "selected": 1,
+    "isOpen": false
+  },
+  {
+    "id": 3,
+    "step": "STEP 3 OF 4",
+    "title": "Choose your sensors",
+    "icon": "sensor",
+    "category": "sensor",
+    "selected": 2,
+    "isOpen": false
+  },
+  {
+    "id": 4,
+    "step": "STEP 4 OF 4",
+    "title": "Add extra protection",
+    "icon": "extra",
+    "category": "accessory",
+    "selected": 1,
+    "isOpen": false
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "category": "camera",
+    "name": "Wyze Cam v4",
+    "description": "The clearest Wyze Cam ever made.",
+    "price": 27.98,
+    "oldPrice": 35.98,
+    "discount": "Save 22%",
+    "image": "/images/Wyze Cam v4-white.png",
+    "variants": [
+      {
+        "id": 1,
+        "name": "White",
+        "quantity": 1,
+        "image": "/images/Wyze Cam v4-white.png"
+      },
+      {
+        "id": 2,
+        "name": "Grey",
+        "quantity": 0,
+        "image": "/images/Wyze Cam v4-gray.png"
+      },
+      {
+        "id": 3,
+        "name": "Black",
+        "quantity": 0,
+        "image": "/images/Wyze Cam v4-black.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "camera",
+    "name": "Wyze Cam Pan v3",
+    "description": "360° pan and 180° tilt security camera.",
+    "price": 47.98,
+    "oldPrice": 57.98,
+    "discount": "Save 12%",
+    "image": "/images/Wyze Cam Pan v3-white.png",
+    "variants": [
+      {
+        "id": 1,
+        "name": "White",
+        "quantity": 1,
+        "image": "/images/Wyze Cam Pan v3-white.png"
+      },
+      {
+        "id": 2,
+        "name": "Black",
+        "quantity": 0,
+        "image": "/images/Wyze Cam Pan v3-black.png"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "plan",
+    "name": "Cam Unlimited",
+    "description": "24/7 cloud recording for every camera on your account, no storage limits.",
+    "price": 9.99,
+    "oldPrice": 12.99,
+    "priceSuffix": "/mo",
+    "discount": null,
+    "image": "/images/image 13.png",
+    "variants": [
+      {
+        "id": 1,
+        "name": "Standard",
+        "quantity": 1,
+        "image": "/images/image 13.png"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category": "sensor",
+    "name": "Wyze Sense Motion Sensor",
+    "description": "Pet-friendly motion detection that alerts you the moment something moves.",
+    "price": 29.99,
+    "oldPrice": null,
+    "discount": null,
+    "image": "/images/Wyze Sense Motion Sensor.png",
+    "variants": [
+      {
+        "id": 1,
+        "name": "White",
+        "quantity": 2,
+        "image": "/images/Wyze Sense Motion Sensor.png"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "category": "sensor",
+    "name": "Wyze Sense Hub (Required)",
+    "description": "The brain of your system. Connects every sensor and syncs with the app.",
+    "price": 0,
+    "oldPrice": 29.92,
+    "discount": null,
+    "disabled": true,
+    "image": "/images/Wyze Sense Hub.png",
+    "variants": [
+      {
+        "id": 1,
+        "name": "White",
+        "quantity": 1,
+        "image": "/images/Wyze Sense Hub.png"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "category": "accessory",
+    "name": "Wyze MicroSD Card (256GB)",
+    "description": "Local backup storage for your cameras, no subscription required.",
+    "price": 20.98,
+    "oldPrice": null,
+    "discount": null,
+    "image": "/images/Black 256GB microSD card with the Wyze logo on it. Includes Class 10 and UHS-3 (U3) labelling..png",
+    "variants": [
+      {
+        "id": 1,
+        "name": "256GB",
+        "quantity": 2,
+        "image": "/images/Black 256GB microSD card with the Wyze logo on it. Includes Class 10 and UHS-3 (U3) labelling..png"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "category": "camera",
+    "name": "Wyze Cam Floodlight v2",
+    "description": "2K floodlight camera with a 160° wide-angle view for your garage.",
+    "price": 69.98,
+    "oldPrice": 89.98,
+    "discount": "Save 22%",
+    "image": "/images/floodlight v2-white.png",
+    "variants": [
+      {
+        "id": 1,
+        "name": "White",
+        "quantity": 0,
+        "image": "/images/floodlight v2-white.png"
+      },
+      {
+        "id": 2,
+        "name": "Black",
+        "quantity": 0,
+        "image": "/images/floodlight v2-black.png"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "category": "camera",
+    "name": "Wyze Duo Cam Doorbell",
+    "description": "Two cameras. Two views. Double the porch protection.",
+    "price": 69.98,
+    "oldPrice": null,
+    "discount": null,
+    "image": "/images/Wyze Duo Cam Doorbell.png",
+    "variants": [
+      {
+        "id": 1,
+        "name": "Black",
+        "quantity": 0,
+        "image": "/images/Wyze Duo Cam Doorbell.png"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "category": "camera",
+    "name": "Wyze Battery Cam Pro",
+    "description": "Protect anywhere. See everything in 2.5K HDR. No power outlet or electrician needed.",
+    "price": 89.98,
+    "oldPrice": null,
+    "discount": null,
+    "image": "/images/Wyze Battery Cam Pro.png",
+    "variants": [
+      {
+        "id": 1,
+        "name": "White",
+        "quantity": 0,
+        "image": "/images/Wyze Battery Cam Pro.png"
+      },
+      {
+        "id": 2,
+        "name": "Black",
+        "quantity": 0,
+        "image": "/images/Wyze Battery Cam Pro-black.png"
+      }
+    ]
+  }
+]
+

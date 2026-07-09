@@ -1,0 +1,28 @@
+.variant-selector {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.variant-chip {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 6px 12px;
+  background: #fff;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.variant-chip--active {
+  border-color: #0AA288;
+  background: rgba(10, 162, 136, 0.08);
+}
+
+.variant-chip__swatch {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+}
