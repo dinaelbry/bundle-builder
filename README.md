@@ -1,5 +1,7 @@
 # Bundle Builder — Wyze-style Security System Configurator
 
+view Demo: https://bundle-builder-gamma.vercel.app/
+
 A multi-step, data-driven bundle builder built with React + Vite. Shoppers walk through
 four steps (Cameras → Plan → Sensors → Accessories) and see a live order summary update
 as they go.
